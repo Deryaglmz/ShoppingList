@@ -24,3 +24,5 @@ Bu React Native uygulaması, kullanıcıların alışveriş listesi oluşturmas�
 - Renkler, düğmeler ve düzen, kullanıcı deneyimini artıracak şekilde tasarlanmıştır.
 
 Bu uygulama, kullanıcıların alışveriş listelerini kolayca oluşturup yönetmelerine olanak tanır ve SQLite veritabanı ile yerel veri depolama işlevselliği sağlar.
+
+https://github.com/Deryaglmz/ShoppingList/assets/129391768/0d7b6b53-839e-4409-a7a1-77118b5badd7
